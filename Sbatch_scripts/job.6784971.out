@@ -1,0 +1,18 @@
+This job can be monitored from: https://job.c3se.chalmers.se/vera/6784971
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950158_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950159_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950160_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950161_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950162_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950163_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950177_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950178_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950179_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950180_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950181_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950182_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950186_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950187_trimmed_htseq_counts.txt
+Files moved successfully to /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts_TEST/sub_dir_count
+Merged file saved as: /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts_TEST/merged_counts.txt
+STAR_alignment_full_alignment is completed succesfully

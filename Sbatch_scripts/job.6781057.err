@@ -1,0 +1,21 @@
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+[bam_sort_core] merging from 26 files and 1 in-memory blocks...
+[bam_sort_core] merging from 20 files and 1 in-memory blocks...
+[bam_sort_core] merging from 21 files and 1 in-memory blocks...
+[bam_sort_core] merging from 27 files and 1 in-memory blocks...
+[bam_sort_core] merging from 32 files and 1 in-memory blocks...
+slurmstepd: error: *** JOB 6781057 ON vera-r05-04 CANCELLED AT 2025-03-01T00:06:29 ***

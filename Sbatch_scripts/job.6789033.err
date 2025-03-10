@@ -1,0 +1,2 @@
+/usr/share/lmod/lmod/init/bash: /usr/share/lmod/lmod/libexec/addto: /usr/bin/lua: bad interpreter: No such file or directory
+cp: cannot stat '/local/tmp.6789033/JOB_TMP/*': No such file or directory

@@ -1,0 +1,145 @@
+This job can be monitored from: https://job.c3se.chalmers.se/vera/6781057
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950158_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950158_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950158_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 19:34:21 ..... started STAR run
+Feb 28 19:34:21 ..... loading genome
+Feb 28 19:35:24 ..... processing annotations GTF
+Feb 28 19:35:49 ..... inserting junctions into the genome indices
+Feb 28 19:36:46 ..... started mapping
+Feb 28 19:41:18 ..... finished mapping
+Feb 28 19:41:19 ..... started sorting BAM
+Feb 28 19:41:49 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950159_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950159_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950159_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 19:41:51 ..... started STAR run
+Feb 28 19:41:51 ..... loading genome
+Feb 28 19:41:56 ..... processing annotations GTF
+Feb 28 19:42:10 ..... inserting junctions into the genome indices
+Feb 28 19:43:06 ..... started mapping
+Feb 28 19:46:01 ..... finished mapping
+Feb 28 19:46:02 ..... started sorting BAM
+Feb 28 19:46:28 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950160_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950160_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950160_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 19:46:29 ..... started STAR run
+Feb 28 19:46:29 ..... loading genome
+Feb 28 19:46:49 ..... processing annotations GTF
+Feb 28 19:47:05 ..... inserting junctions into the genome indices
+Feb 28 19:48:01 ..... started mapping
+Feb 28 19:51:44 ..... finished mapping
+Feb 28 19:51:45 ..... started sorting BAM
+Feb 28 19:52:20 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950161_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950161_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950161_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 19:52:20 ..... started STAR run
+Feb 28 19:52:20 ..... loading genome
+Feb 28 19:52:25 ..... processing annotations GTF
+Feb 28 19:52:39 ..... inserting junctions into the genome indices
+Feb 28 19:53:35 ..... started mapping
+Feb 28 19:58:00 ..... finished mapping
+Feb 28 19:58:01 ..... started sorting BAM
+Feb 28 19:58:41 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950162_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950162_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950162_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 19:58:42 ..... started STAR run
+Feb 28 19:58:42 ..... loading genome
+Feb 28 19:58:47 ..... processing annotations GTF
+Feb 28 19:59:00 ..... inserting junctions into the genome indices
+Feb 28 19:59:57 ..... started mapping
+Feb 28 20:04:26 ..... finished mapping
+Feb 28 20:04:26 ..... started sorting BAM
+Feb 28 20:05:05 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950163_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950163_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950163_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:05:06 ..... started STAR run
+Feb 28 20:05:06 ..... loading genome
+Feb 28 20:05:11 ..... processing annotations GTF
+Feb 28 20:05:25 ..... inserting junctions into the genome indices
+Feb 28 20:06:21 ..... started mapping
+Feb 28 20:09:19 ..... finished mapping
+Feb 28 20:09:19 ..... started sorting BAM
+Feb 28 20:09:45 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950177_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950177_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950177_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:09:46 ..... started STAR run
+Feb 28 20:09:47 ..... loading genome
+Feb 28 20:09:51 ..... processing annotations GTF
+Feb 28 20:10:05 ..... inserting junctions into the genome indices
+Feb 28 20:11:02 ..... started mapping
+Feb 28 20:14:38 ..... finished mapping
+Feb 28 20:14:38 ..... started sorting BAM
+Feb 28 20:15:04 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950178_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950178_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950178_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:15:04 ..... started STAR run
+Feb 28 20:15:04 ..... loading genome
+Feb 28 20:15:09 ..... processing annotations GTF
+Feb 28 20:15:22 ..... inserting junctions into the genome indices
+Feb 28 20:16:18 ..... started mapping
+Feb 28 20:19:08 ..... finished mapping
+Feb 28 20:19:09 ..... started sorting BAM
+Feb 28 20:19:39 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950179_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950179_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950179_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:19:40 ..... started STAR run
+Feb 28 20:19:40 ..... loading genome
+Feb 28 20:19:44 ..... processing annotations GTF
+Feb 28 20:20:00 ..... inserting junctions into the genome indices
+Feb 28 20:20:57 ..... started mapping
+Feb 28 20:23:14 ..... finished mapping
+Feb 28 20:23:15 ..... started sorting BAM
+Feb 28 20:23:35 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950180_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950180_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950180_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:23:36 ..... started STAR run
+Feb 28 20:23:36 ..... loading genome
+Feb 28 20:23:40 ..... processing annotations GTF
+Feb 28 20:23:54 ..... inserting junctions into the genome indices
+Feb 28 20:24:51 ..... started mapping
+Feb 28 20:29:16 ..... finished mapping
+Feb 28 20:29:17 ..... started sorting BAM
+Feb 28 20:29:55 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950181_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950181_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950181_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:29:56 ..... started STAR run
+Feb 28 20:29:57 ..... loading genome
+Feb 28 20:30:01 ..... processing annotations GTF
+Feb 28 20:30:15 ..... inserting junctions into the genome indices
+Feb 28 20:31:11 ..... started mapping
+Feb 28 20:34:32 ..... finished mapping
+Feb 28 20:34:33 ..... started sorting BAM
+Feb 28 20:35:04 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950182_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950182_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950182_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:35:05 ..... started STAR run
+Feb 28 20:35:05 ..... loading genome
+Feb 28 20:35:09 ..... processing annotations GTF
+Feb 28 20:35:23 ..... inserting junctions into the genome indices
+Feb 28 20:36:19 ..... started mapping
+Feb 28 20:39:56 ..... finished mapping
+Feb 28 20:39:57 ..... started sorting BAM
+Feb 28 20:40:29 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950186_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950186_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950186_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:40:30 ..... started STAR run
+Feb 28 20:40:30 ..... loading genome
+Feb 28 20:40:34 ..... processing annotations GTF
+Feb 28 20:40:48 ..... inserting junctions into the genome indices
+Feb 28 20:41:45 ..... started mapping
+Feb 28 20:45:33 ..... finished mapping
+Feb 28 20:45:34 ..... started sorting BAM
+Feb 28 20:46:06 ..... finished successfully
+	/opt/conda/bin/STAR-avx2 --runThreadN 8 --genomeDir /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_index --readFilesIn /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950187_trimmed_1.fastq.gz /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/trimmed_RNA-seq//ERR950187_trimmed_2.fastq.gz --readFilesCommand zcat --outFileNamePrefix /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/alignment_STAR/ERR950187_trimmed_ --sjdbGTFfile /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/human_genome/Homo_sapiens.GRCh38.113.gtf --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11b   compiled: 2025-01-09T12:32:06+0000 :/opt/conda/conda-bld/star_1736425784849/work/source
+Feb 28 20:46:08 ..... started STAR run
+Feb 28 20:46:08 ..... loading genome
+Feb 28 20:46:12 ..... processing annotations GTF
+Feb 28 20:46:26 ..... inserting junctions into the genome indices
+Feb 28 20:47:23 ..... started mapping
+Feb 28 20:51:01 ..... finished mapping
+Feb 28 20:51:02 ..... started sorting BAM
+Feb 28 20:51:54 ..... finished successfully
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950158_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950159_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950160_trimmed_htseq_counts.txt
+htseq-count completed successfully. Output saved in /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Bjork/data/STAR_gene_counts/ERR950161_trimmed_htseq_counts.txt
