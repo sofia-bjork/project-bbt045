@@ -1,0 +1,59 @@
+Bootstrap: docker
+From: continuumio/miniconda3:23.5.2-0
+
+%environment
+    export DEBIAN_FRONTEND=noninteractive
+    export LC_ALL=C
+    export PATH=/opt/conda/bin:$PATH
+
+%post
+    # Install system dependencies
+    apt-get update && apt-get install -y --no-install-recommends \
+        wget \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+    # Configure conda channels
+    conda config --add channels defaults
+    conda config --add channels bioconda
+    conda config --add channels conda-forge
+
+    # Install Jupyter and scientific libraries with conda
+    conda install mamba
+    mamba install -y --quiet \
+        jupyterlab==4.0.11 \
+        nbconvert \
+        openpyxl \
+        regex \
+        unzip \
+        rpy2 \
+        bowtie2 \
+        multiqc \
+        fastqc \
+        star \
+        bioconductor-deseq2 \
+        pydeseq2 \
+        trimmomatic \
+        scipy \
+        matplotlib \
+        seaborn \
+        numpy \
+        pandas \
+        biopython \
+        plotly \
+        bioconductor-edger \
+        pyarrow \
+        cutadapt \
+        subread \
+        htseq \
+        bedtools \
+        dash-bio \
+        r-gplots \
+        r-rcolorbrewer \
+        r-venndiagram \
+        csvkit \
+        bioconda::samtools
+
+
+%runscript
+    exec "$@"
